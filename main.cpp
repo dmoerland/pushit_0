@@ -10,7 +10,7 @@ int main ()
     // Declare Functions
     double noChange(double, int);
     double pickAnother(double, int);
-    void ranking(double, double);
+
     
     // Declare integers
     
